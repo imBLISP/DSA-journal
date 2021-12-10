@@ -1,1 +1,4 @@
-helloooooo from the program! 
+100 
+75 150 
+25 
+10 
